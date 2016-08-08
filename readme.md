@@ -1,3 +1,5 @@
+php -S localhost:8080 -t ./public ./public/index.php
+
 # Laravel PHP Framework
 
 [![Build Status](https://travis-ci.org/laravel/framework.svg)](https://travis-ci.org/laravel/framework)
